@@ -1,0 +1,320 @@
+
+APPLICATION D'AUTHENTIFICATION - PROTOTYPE VERSION 1.0
+
+====
+MENU
+====
+1. Creer un compte
+2. S'authentifier
+3. Quitter
+
+Entrez votre choix au menu : 2
+Nom d'utilisateur : 
+Mot de passe : 
+
+==> Ce compte n'existe pas ! <==
+
+*** OPERATION ANNULEE ! ***
+
+Tapez sur <ENTREE> pour revenir au menu...
+
+====
+MENU
+====
+1. Creer un compte
+2. S'authentifier
+3. Quitter
+
+Entrez votre choix au menu : 2
+Nom d'utilisateur : toto
+Mot de passe : 
+
+==> Ce compte n'existe pas ! <==
+
+*** OPERATION ANNULEE ! ***
+
+Tapez sur <ENTREE> pour revenir au menu...
+
+====
+MENU
+====
+1. Creer un compte
+2. S'authentifier
+3. Quitter
+
+Entrez votre choix au menu : 2
+Nom d'utilisateur : 
+Mot de passe : aaAA11**
+
+==> Ce compte n'existe pas ! <==
+
+*** OPERATION ANNULEE ! ***
+
+Tapez sur <ENTREE> pour revenir au menu...
+
+====
+MENU
+====
+1. Creer un compte
+2. S'authentifier
+3. Quitter
+
+Entrez votre choix au menu : 2
+Nom d'utilisateur : toto
+Mot de passe : aaAA11**
+
+==> Ce compte n'existe pas ! <==
+
+*** OPERATION ANNULEE ! ***
+
+Tapez sur <ENTREE> pour revenir au menu...
+
+====
+MENU
+====
+1. Creer un compte
+2. S'authentifier
+3. Quitter
+
+Entrez votre choix au menu : 1
+Entrez le nom d'utilisateur (<ENTREE> pour annuler) : toto
+Entrez le mot de passe (<ENTREE> pour annuler) : aaAA11**
+
+==> Compte cree avec succes ! <==
+
+Tapez sur <ENTREE> pour revenir au menu...
+
+====
+MENU
+====
+1. Creer un compte
+2. S'authentifier
+3. Quitter
+
+Entrez votre choix au menu : 2
+Nom d'utilisateur : toto
+Mot de passe : aaAA11**
+
+
+******************
+* BIENVENUE TOTO *
+******************
+
+  Dernier acces : -
+
+
+
+====
+MENU
+====
+1. Modifier le mot de passe
+2. Supprimer le compte
+3. Se deconnecter
+
+Entrez votre choix au menu : 0
+
+Erreur, choix de menu invalide! Recommencez... 
+Entrez votre choix au menu : 4
+
+Erreur, choix de menu invalide! Recommencez... 
+Entrez votre choix au menu : 
+
+Erreur, choix de menu invalide! Recommencez... 
+Entrez votre choix au menu : a
+
+Erreur, choix de menu invalide! Recommencez... 
+Entrez votre choix au menu : 33
+
+Erreur, choix de menu invalide! Recommencez... 
+Entrez votre choix au menu : 3
+
+AU REVOIR !
+
+Tapez sur <ENTREE> pour revenir au menu...
+
+====
+MENU
+====
+1. Creer un compte
+2. S'authentifier
+3. Quitter
+
+Entrez votre choix au menu : 2
+Nom d'utilisateur : toto
+Mot de passe : aaAA11***
+
+==> Ce compte n'existe pas ! <==
+
+*** OPERATION ANNULEE ! ***
+
+Tapez sur <ENTREE> pour revenir au menu...
+
+====
+MENU
+====
+1. Creer un compte
+2. S'authentifier
+3. Quitter
+
+Entrez votre choix au menu : 2
+Nom d'utilisateur : toto
+Mot de passe : aaAA11**
+
+
+******************
+* BIENVENUE TOTO *
+******************
+
+  Dernier acces : 09/03/2022 17:45:40
+
+
+
+====
+MENU
+====
+1. Modifier le mot de passe
+2. Supprimer le compte
+3. Se deconnecter
+
+Entrez votre choix au menu : 1
+Entrez le nouveau mot de passe (<ENTREE> pour annuler) : ss
+
+Erreur, le mot de passe doit contenir entre 8 et 16 caracteres! Recommencez...
+Entrez le nouveau mot de passe (<ENTREE> pour annuler) : ssssssss=
+
+Erreur, le mot de passe ne doit contenir que des lettres, des chiffres 
+ou les caracteres speciaux *?#@!.+&. Recommencez...
+Entrez le nouveau mot de passe (<ENTREE> pour annuler) : sS1234aaaaa
+
+Erreur, le mot de passe doit contenir : 
+  1) au moins 2 lettres majuscules
+  2) au moins 1 caractere special parmi *?#@!.+&
+  3) au moins 1 chiffre
+
+Recommencez... 
+Entrez le nouveau mot de passe (<ENTREE> pour annuler) : 
+
+*** OPERATION ANNULEE ! ***
+
+
+
+******************
+* BIENVENUE TOTO *
+******************
+
+  Dernier acces : 09/03/2022 17:45:40
+
+
+
+====
+MENU
+====
+1. Modifier le mot de passe
+2. Supprimer le compte
+3. Se deconnecter
+
+Entrez votre choix au menu : 1
+Entrez le nouveau mot de passe (<ENTREE> pour annuler) : bbBB22**
+
+==> Mot de passe modifie avec succes ! <==
+
+
+******************
+* BIENVENUE TOTO *
+******************
+
+  Dernier acces : 09/03/2022 17:45:40
+
+
+
+====
+MENU
+====
+1. Modifier le mot de passe
+2. Supprimer le compte
+3. Se deconnecter
+
+Entrez votre choix au menu : 3
+
+AU REVOIR !
+
+Tapez sur <ENTREE> pour revenir au menu...
+
+====
+MENU
+====
+1. Creer un compte
+2. S'authentifier
+3. Quitter
+
+Entrez votre choix au menu : 2
+Nom d'utilisateur : toto
+Mot de passe : aaAA11**
+
+==> Ce compte n'existe pas ! <==
+
+*** OPERATION ANNULEE ! ***
+
+Tapez sur <ENTREE> pour revenir au menu...
+
+====
+MENU
+====
+1. Creer un compte
+2. S'authentifier
+3. Quitter
+
+Entrez votre choix au menu : 2
+Nom d'utilisateur : toto
+Mot de passe : bbBB22**
+
+
+******************
+* BIENVENUE TOTO *
+******************
+
+  Dernier acces : 09/03/2022 17:46:48
+
+
+
+====
+MENU
+====
+1. Modifier le mot de passe
+2. Supprimer le compte
+3. Se deconnecter
+
+Entrez votre choix au menu : 2
+
+==> Compte supprime avec succes ! <==
+
+Tapez sur <ENTREE> pour revenir au menu...
+
+====
+MENU
+====
+1. Creer un compte
+2. S'authentifier
+3. Quitter
+
+Entrez votre choix au menu : 2
+Nom d'utilisateur : toto
+Mot de passe : bbBB22**
+
+==> Ce compte n'existe pas ! <==
+
+*** OPERATION ANNULEE ! ***
+
+Tapez sur <ENTREE> pour revenir au menu...
+
+====
+MENU
+====
+1. Creer un compte
+2. S'authentifier
+3. Quitter
+
+Entrez votre choix au menu : 3
+
+
+Fin normale du programme.

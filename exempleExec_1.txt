@@ -1,0 +1,143 @@
+APPLICATION D'AUTHENTIFICATION - PROTOTYPE VERSION 1.0
+
+====
+MENU
+====
+1. Creer un compte
+2. S'authentifier
+3. Quitter
+
+Entrez votre choix au menu : 0
+
+Erreur, choix de menu invalide! Recommencez... 
+Entrez votre choix au menu : 4
+
+Erreur, choix de menu invalide! Recommencez... 
+Entrez votre choix au menu : 
+
+Erreur, choix de menu invalide! Recommencez... 
+Entrez votre choix au menu : a
+
+Erreur, choix de menu invalide! Recommencez... 
+Entrez votre choix au menu : 11
+
+Erreur, choix de menu invalide! Recommencez... 
+Entrez votre choix au menu : 22
+
+Erreur, choix de menu invalide! Recommencez... 
+Entrez votre choix au menu : 33
+
+Erreur, choix de menu invalide! Recommencez... 
+Entrez votre choix au menu : 1
+Entrez le nom d'utilisateur (<ENTREE> pour annuler) : 
+
+*** OPERATION ANNULEE ! ***
+
+Tapez sur <ENTREE> pour revenir au menu...
+
+====
+MENU
+====
+1. Creer un compte
+2. S'authentifier
+3. Quitter
+
+Entrez votre choix au menu : 1
+Entrez le nom d'utilisateur (<ENTREE> pour annuler) : bo
+
+Erreur, le nom doit contenir entre 3 et 25 caracteres! Recommencez...
+Entrez le nom d'utilisateur (<ENTREE> pour annuler) : b!
+
+Erreur, le nom doit contenir entre 3 et 25 caracteres! Recommencez...
+Entrez le nom d'utilisateur (<ENTREE> pour annuler) : Bob!
+
+Erreur, le nom ne doit contenir que des lettres, des chiffres 
+ou les caracteres POINT (.) et TRAIT BAS (_). Recommencez...
+Entrez le nom d'utilisateur (<ENTREE> pour annuler) : bbb%*bbbbbbb?$bbbbbbbbbbb#
+
+Erreur, le nom doit contenir entre 3 et 25 caracteres! Recommencez...
+Entrez le nom d'utilisateur (<ENTREE> pour annuler) : bob.bin
+Entrez le mot de passe (<ENTREE> pour annuler) : 
+
+*** OPERATION ANNULEE ! ***
+
+Tapez sur <ENTREE> pour revenir au menu...
+
+====
+MENU
+====
+1. Creer un compte
+2. S'authentifier
+3. Quitter
+
+Entrez votre choix au menu : 1
+Entrez le nom d'utilisateur (<ENTREE> pour annuler) : bob_bin.net
+Entrez le mot de passe (<ENTREE> pour annuler) : aBB*1
+
+Erreur, le mot de passe doit contenir entre 8 et 16 caracteres! Recommencez...
+Entrez le mot de passe (<ENTREE> pour annuler) : aBB*1bbbbbbbbbbbb
+
+Erreur, le mot de passe doit contenir entre 8 et 16 caracteres! Recommencez...
+Entrez le mot de passe (<ENTREE> pour annuler) : bbbbbbb
+
+Erreur, le mot de passe doit contenir entre 8 et 16 caracteres! Recommencez...
+Entrez le mot de passe (<ENTREE> pour annuler) : aaAA#*:bb
+
+Erreur, le mot de passe ne doit contenir que des lettres, des chiffres 
+ou les caracteres speciaux *?#@!.+&. Recommencez...
+Entrez le mot de passe (<ENTREE> pour annuler) : aaAA22bbAa
+
+Erreur, le mot de passe doit contenir : 
+  1) au moins 2 lettres majuscules
+  2) au moins 1 caractere special parmi *?#@!.+&
+  3) au moins 1 chiffre
+
+Recommencez... 
+Entrez le mot de passe (<ENTREE> pour annuler) : *#@aaaBB9(to)
+
+Erreur, le mot de passe ne doit contenir que des lettres, des chiffres 
+ou les caracteres speciaux *?#@!.+&. Recommencez...
+Entrez le mot de passe (<ENTREE> pour annuler) : 21AB
+
+Erreur, le mot de passe doit contenir entre 8 et 16 caracteres! Recommencez...
+Entrez le mot de passe (<ENTREE> pour annuler) : 21AbcccC
+
+Erreur, le mot de passe doit contenir : 
+  1) au moins 2 lettres majuscules
+  2) au moins 1 caractere special parmi *?#@!.+&
+  3) au moins 1 chiffre
+
+Recommencez... 
+Entrez le mot de passe (<ENTREE> pour annuler) : aaB11*+BGx
+
+==> Compte cree avec succes ! <==
+
+Tapez sur <ENTREE> pour revenir au menu...
+
+====
+MENU
+====
+1. Creer un compte
+2. S'authentifier
+3. Quitter
+
+Entrez votre choix au menu : 1
+Entrez le nom d'utilisateur (<ENTREE> pour annuler) : bob_bin.net
+
+==> Un compte avec ce nom d'utilisateur existe deja ! <==
+
+*** OPERATION ANNULEE ! ***
+
+Tapez sur <ENTREE> pour revenir au menu...
+
+====
+MENU
+====
+1. Creer un compte
+2. S'authentifier
+3. Quitter
+
+Entrez votre choix au menu : 3
+
+
+Fin normale du programme.
